@@ -3,7 +3,7 @@ A Simple Parallax Scrolling Effect Made In HTML &amp; CSS
 
 <br>
 
-## Youtube Video: 
+## Youtube Video: https://youtu.be/NUxWivTcXrY
 
 <br>
 
